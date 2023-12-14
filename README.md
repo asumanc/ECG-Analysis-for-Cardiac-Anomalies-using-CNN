@@ -1,2 +1,2 @@
-# Time Series-Cardiac-Anomalies-Classification-Using-Convolutional-Neural-Networks
+# Time Series Cardiac Anomalies Classification Using Convolutional Neural Networks
 CS583 course project
